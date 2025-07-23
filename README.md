@@ -11,6 +11,8 @@
 - **Monitoring**: Prometheus, Grafana, AWS CloudWatch
 - **DevOps & CI/CD**: GitHub Actions, Docker, Kubernetes (K8s)
 - **ML Pipelines**: Feature Engineering, Model Scoring, Vector Stores (FAISS, Pinecone)
+## 🧰 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva-888&show_icons=true&theme=radical&count_private=true)
 
 ## 🛠️ What I Do
 - Architect and develop end-to-end **ETL/ELT pipelines**
