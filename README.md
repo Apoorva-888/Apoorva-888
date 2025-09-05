@@ -27,7 +27,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧰 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva-888&show_icons=true&theme=radical&count_private=true)
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva-888&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-888&layout=compact&theme=radical) |
+
 ## 🛠️ What I Do
 - Architect and develop end-to-end **ETL/ELT pipelines**
 - Design and manage **data lakehouses and modern data warehouses**
@@ -35,9 +38,17 @@
 - Enable **analytics, AI/ML use cases**, and self-serve BI
 - Advocate for **clean, modular, and testable code**
 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Apoorva-888&theme=onedark)
+
 ## 📘 Blogs & Knowledge Sharing
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apoorva-888)
+
+## 📈 My GitHub Activity
+| Profile Summary | Monthly Commits |
+|-----------------|-----------------|
+| ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-888&theme=tokyonight) | ![Monthly Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apoorva-888&theme=tokyonight&utcOffset=4) |
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorvachillal)
