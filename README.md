@@ -50,12 +50,6 @@
 |-----------------|-----------------|
 | ![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Apoorva-888&theme=tokyonight) | ![Monthly Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Apoorva-888&theme=tokyonight&utcOffset=4) |
 
-## 🧰 My Projects
-
-<!-- REPO_TABLE_START -->
-<!-- REPO_TABLE_END -->
-
-
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorvachillal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apoorvchillal11@gmail.com)
