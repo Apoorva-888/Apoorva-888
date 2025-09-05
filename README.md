@@ -27,9 +27,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🧰 My GitHub Stats
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva-888&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-888&layout=compact&theme=radical) |
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apoorva-888&show_icons=true&theme=radical&count_private=true&hide_border=true&card_width=400)](https://github.com/Apoorva-888) 
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apoorva-888&theme=radical&hide_border=true&card_width=400)](https://github.com/Apoorva-888)|
+
 
 ## 🛠️ What I Do
 - Architect and develop end-to-end **ETL/ELT pipelines**
